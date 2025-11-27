@@ -330,7 +330,7 @@ python main.py --topic "AI Agents"
 This project is licensed under the Apache License 2.0 - see below for details:
 
 ```
-Copyright 2024 Revanth Sai R
+Copyright 2025 Revanth Sai R
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
